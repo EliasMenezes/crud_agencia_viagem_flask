@@ -1,0 +1,11 @@
+1) instalando os pacotes  'flask' e o mysql-connect-python
+-comando no terminal pip install flask mysql-connector-python
+
+2)criando o arquivo da aplicação principal chamado app.py
+- criar arquivo com a extenção .py
+
+3)criaando pasta chamada templates na pasta raiz do projeto
+-mover todos os arquvivo para pasta templates
+
+) executando a aplicação principal
+- comando no terminal :python app.py
